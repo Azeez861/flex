@@ -1,0 +1,31 @@
+.text{
+    text-align: center;
+
+}
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+h1:hover{
+    color: orange;
+}
+h2{
+    font-family: sans-serif;
+}
+a{
+    font-size: 25px;
+    color: blue;
+    text-decoration: none;
+    position: relative;
+    top: 30vh;
+    left: 90rem;
+    
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+body{
+    background: linear-gradient(white,plum);
+    height: 44.5rem;
+}
